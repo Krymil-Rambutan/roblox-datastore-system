@@ -1,15 +1,16 @@
 # roblox-datastore-system
-# Persistent Player Data System (Roblox)
+# Persistent Player Data System
 
-This system saves and loads player data using DataStoreService.
+This system securely saves and loads player data using DataStoreService.
 
 Features:
-- Saves player currency
-- Loads automatically when player joins
-- Auto-saves periodically
-- Prevents data loss
+- Money & Level saving
+- Auto-save every 60 seconds
+- Safe loading with error handling
+- Saves on player leave and server shutdown
+- Structured for scalability
 
-Built using clean and scalable scripting practices.
+Built as a portfolio-ready example of production-style Roblox backend scripting.
 
 Demo Video:
-(Paste YouTube link here)
+(Paste your YouTube link here)
