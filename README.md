@@ -9,8 +9,3 @@ Features:
 - Safe loading with error handling
 - Saves on player leave and server shutdown
 - Structured for scalability
-
-Built as a portfolio-ready example of production-style Roblox backend scripting.
-
-Demo Video:
-(Paste your YouTube link here)
